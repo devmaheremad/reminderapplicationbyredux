@@ -30,7 +30,7 @@ class App extends Component {
                 {moment(new Date(reminder.timeToDo)).fromNow()}
               </p>
             </Col>
-            <Col xs={2} md={2} className="delete float-left text-right">
+            <Col xs={2} md={2} className="delete float-left text-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 20 20"
@@ -38,6 +38,8 @@ class App extends Component {
                 onClick={() => {
                   this.props.deleteReminder(index);
                 }}
+                width="60"
+                height="70"
               >
                 <path
                   fillRule="evenodd"
