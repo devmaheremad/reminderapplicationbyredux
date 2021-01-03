@@ -1,5 +1,5 @@
 body {
-    background-color: #ce3125;
+    background-color: #9f271e;
 }
 
 .reminder {
@@ -9,6 +9,12 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 50%;
+    transition: all 0.2s ease-in-out;
+}
+.reminder:hover {
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 }
 .reminder img {
     width: 150px;
@@ -16,6 +22,14 @@ body {
 .reminder h2 {
     text-decoration: underline;
 }
+.reminder-note svg {
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+.reminder-note svg:hover {
+    color: #dc3545;
+}
+
 .for-time,
 .for-time input {
     display: block;
