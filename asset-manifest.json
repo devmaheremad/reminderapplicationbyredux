@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reminderapplicationbyredux/static/css/main.56ea9cbc.chunk.css",
+    "main.js": "/reminderapplicationbyredux/static/js/main.2554d9c0.chunk.js",
+    "main.js.map": "/reminderapplicationbyredux/static/js/main.2554d9c0.chunk.js.map",
+    "runtime-main.js": "/reminderapplicationbyredux/static/js/runtime-main.41b388cb.js",
+    "runtime-main.js.map": "/reminderapplicationbyredux/static/js/runtime-main.41b388cb.js.map",
+    "static/css/2.5ea8d6f0.chunk.css": "/reminderapplicationbyredux/static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.9231dc87.chunk.js": "/reminderapplicationbyredux/static/js/2.9231dc87.chunk.js",
+    "static/js/2.9231dc87.chunk.js.map": "/reminderapplicationbyredux/static/js/2.9231dc87.chunk.js.map",
+    "index.html": "/reminderapplicationbyredux/index.html",
+    "static/css/2.5ea8d6f0.chunk.css.map": "/reminderapplicationbyredux/static/css/2.5ea8d6f0.chunk.css.map",
+    "static/css/main.56ea9cbc.chunk.css.map": "/reminderapplicationbyredux/static/css/main.56ea9cbc.chunk.css.map",
+    "static/js/2.9231dc87.chunk.js.LICENSE.txt": "/reminderapplicationbyredux/static/js/2.9231dc87.chunk.js.LICENSE.txt",
+    "static/media/reminders-icon.1c7af7b0.png": "/reminderapplicationbyredux/static/media/reminders-icon.1c7af7b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b388cb.js",
+    "static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.9231dc87.chunk.js",
+    "static/css/main.56ea9cbc.chunk.css",
+    "static/js/main.2554d9c0.chunk.js"
+  ]
+}
